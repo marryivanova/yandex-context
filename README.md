@@ -3,10 +3,6 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="readmeai/assets/logos/purple.svg" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
-
-# SRC
-
 <em></em>
 
 <!-- BADGES -->
@@ -56,17 +52,10 @@
 
 ```sh
 └── src/
-    ├── __init__.py
-    ├── __pycache__
-    │   └── __init__.cpython-312.pyc
     ├── api
-    │   ├── __init__.py
-    │   ├── __pycache__
     │   ├── endpoints
     │   └── schema
     └── database
-        ├── __init__.py
-        ├── __pycache__
         ├── core.py
         └── model.py
 ```
@@ -74,7 +63,7 @@
 ### Project Index
 
 <details open>
-	<summary><b><code>C:\USERS\OLYA\PYCHARMPROJECTS\YANDEX-CONTEXT\SRC/</code></b></summary>
+	<summary><b><code>C:YANDEX-CONTEXT\SRC/</code></b></summary>
 	<!-- __root__ Submodule -->
 	<details>
 		<summary><b>__root__</b></summary>
@@ -233,7 +222,7 @@ echo 'INSERT-TEST-COMMAND-HERE'
 1. **Fork the Repository**: Start by forking the project repository to your LOCAL account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a git client.
    ```sh
-   git clone C:\Users\Olya\PycharmProjects\yandex-context\src
+   git clone yandex-context...
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
    ```sh
